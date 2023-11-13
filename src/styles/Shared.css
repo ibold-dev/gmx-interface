@@ -72,41 +72,41 @@ input {
   --error-red: #fa3c58;
   --error-red-hover: #ff687e;
   --green: #0ecc83; */
-  --main-bg-color: #fffacd;
-    /* light yellow */
-    --dark-blue: #d9d98c;
-    /* muted yellow */
-    --dark-blue-bg: #e6e68a;
-    /* pale yellow */
-    --dark-blue-accent: #fff3b0;
-    /* light yellow */
-    --primary-btn-bg: #ffd700;
-    /* gold */
-    --primary-btn-hover: #ffdb58;
-    /* darker gold */
-    --primary-btn-active: #ffd700;
-    /* gold */
-    --dark-blue-hover: #ffffcc;
-    /* very light yellow */
-    --dark-blue-border: #fffacd;
-    /* light yellow */
-    --dark-blue-active: #ffffcc;
-    /* very light yellow */
-    --text-gray: rgba(0, 0, 0, 0.7);
-    /* black with reduced opacity */
-    --warning-yellow: rgb(255, 223, 0);
-    /* bright yellow */
-    --avax-red: #e84143;
-    /* red */
-    --arbitrum-blue: #28a0f0;
-    /* blue */
-    --border-radius-sm: 0.4rem;
-    --error-red: #fa3c58;
-    /* reddish */
-    --error-red-hover: #ff687e;
-    /* light red */
-    --green: #0ecc83;
-    /* green */
+  --main-bg-color: #101124;
+  /* dark blue */
+  --dark-blue: #1a1d2b;
+  /* deep dark blue */
+  --dark-blue-bg: #16182e;
+  /* navy blue */
+  --dark-blue-accent: #a0a3c4;
+  /* light blue-grey */
+  --primary-btn-bg: #2d42fc;
+  /* royal blue */
+  --primary-btn-hover: #4d5ffa;
+  /* lighter royal blue */
+  --primary-btn-active: #5264fc;
+  /* active state royal blue */
+  --dark-blue-hover: #808aff14;
+  /* dark blue with hover effect */
+  --dark-blue-border: #ffffff29;
+  /* white border with opacity */
+  --dark-blue-active: #818cef33;
+  /* dark blue active state */
+  --text-gray: rgba(255, 255, 255, 0.7);
+  /* white with reduced opacity */
+  --warning-yellow: rgb(243, 181, 12);
+  /* warning yellow */
+  --avax-red: #e84143;
+  /* red */
+  --arbitrum-blue: #28a0f0;
+  /* blue */
+  --border-radius-sm: 0.4rem;
+  --error-red: #fa3c58;
+  /* error red */
+  --error-red-hover: #ff687e;
+  /* error red with hover effect */
+  --green: #0ecc83;
+  /* green */
   --font-sm: 1.4rem;
   --font-base: 1.5rem;
   --font-md: 1.6rem;
