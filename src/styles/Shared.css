@@ -54,7 +54,7 @@ input {
   background: #b3b4c2;
 }
 :root {
-  --main-bg-color: #101124;
+  /* --main-bg-color: #101124;
   --dark-blue: #17182c;
   --dark-blue-bg: #16182e;
   --dark-blue-accent: #a0a3c4;
@@ -71,7 +71,42 @@ input {
   --border-radius-sm: 0.4rem;
   --error-red: #fa3c58;
   --error-red-hover: #ff687e;
-  --green: #0ecc83;
+  --green: #0ecc83; */
+  --main-bg-color: #fffacd;
+    /* light yellow */
+    --dark-blue: #d9d98c;
+    /* muted yellow */
+    --dark-blue-bg: #e6e68a;
+    /* pale yellow */
+    --dark-blue-accent: #fff3b0;
+    /* light yellow */
+    --primary-btn-bg: #ffd700;
+    /* gold */
+    --primary-btn-hover: #ffdb58;
+    /* darker gold */
+    --primary-btn-active: #ffd700;
+    /* gold */
+    --dark-blue-hover: #ffffcc;
+    /* very light yellow */
+    --dark-blue-border: #fffacd;
+    /* light yellow */
+    --dark-blue-active: #ffffcc;
+    /* very light yellow */
+    --text-gray: rgba(0, 0, 0, 0.7);
+    /* black with reduced opacity */
+    --warning-yellow: rgb(255, 223, 0);
+    /* bright yellow */
+    --avax-red: #e84143;
+    /* red */
+    --arbitrum-blue: #28a0f0;
+    /* blue */
+    --border-radius-sm: 0.4rem;
+    --error-red: #fa3c58;
+    /* reddish */
+    --error-red-hover: #ff687e;
+    /* light red */
+    --green: #0ecc83;
+    /* green */
   --font-sm: 1.4rem;
   --font-base: 1.5rem;
   --font-md: 1.6rem;
